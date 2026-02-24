@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Md Imanul Huq"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student. \n Graduate Assistant-Research"
+  bio              : "PhD Student. <br> Graduate Assistant-Research"
   location         : #"Earth"
   employer         : "Texas A&M University"
   uri              : https://imanulhuq.github.io/
