@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 Howdy, May Peace be on you!
 
 I am pursuing a Ph.D. in Computer Science & Engineering under the supervision of Prof. Nitesh Saxena at the SPIES Lab, Department of Computer Science & Engineering, Texas A&M University, College Station, Texas, USA.
