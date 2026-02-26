@@ -1,10 +1,5 @@
 var addressPoints = [
   [
-    "Workshop on Artificial Intelligence and it's impact on Business Organization & Career Development on different aspects.<br />UC San Francisco, Department of Testing; IIUC, Chittagong, Bangladesh",
-    22.4975949,
-    91.7215849
-  ],
-  [
     "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
     51.5074456,
     -0.1277653
