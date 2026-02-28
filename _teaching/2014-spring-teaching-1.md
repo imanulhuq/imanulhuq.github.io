@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate & Graduate courses"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Texas A&M University, Department of Computer Science & Engineering."
-date: 2014-01-01
+date: 2022-01-01
 location: "L.F. Peterson Building, 435 Nagle St, College Station, TX 77843"
 ---
 
