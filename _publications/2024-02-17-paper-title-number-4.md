@@ -7,4 +7,5 @@ excerpt: ''
 date: 2025-12-03
 venue: '2025 22nd Annual International Conference on Privacy, Security, and Trust (PST)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/11268857'
+bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 ---
