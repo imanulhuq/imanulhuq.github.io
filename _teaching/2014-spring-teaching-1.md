@@ -1,20 +1,19 @@
 ---
-title: "Teaching experience 1"
+title: "Graduate Assistant-Teaching"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate & Graduate courses"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "Texas A&M University, Department of Computer Science & Engineering."
 date: 2014-01-01
-location: "City, Country"
+location: "L.F. Peterson Building, 435 Nagle St, College Station, TX 77843"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+26 SPRING CSCE 765 700: NETWORK SECURITY
+24 FALL CSCE 465 599/765 699: COMP \& NET SECURITY / NET SECURITY 
+24 SPRING CSCE 465 599/689 699: COMP \& NET SECURITY / NET SECURITY 
+23 FALL CSCE 465 599/689 699: COMP \& NET SECURITY / NET Security
+23 SPRING CSCE 110 500: PROGRAMMING I
+22 FALL CSCE 110 500: PROGRAMMING I
+22 SPRING CSCE 312 595-599: COMPUTER ORGANIZATION
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
