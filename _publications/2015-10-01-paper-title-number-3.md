@@ -8,4 +8,5 @@ date: 2012-12-01
 venue: 'International Conference on Electrical, Computer and Telecommunication Engineering (ICECTE2012)'
 slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://www.researchgate.net/profile/Md-Abdus-Samad-3/publication/235350789_Correlation_between_Sensorimotor_area_of_CNS_with_PNS_by_EEG_and_NCV_for_Motor_Imagery_Task/links/5f927bec299bf1b53e3d8cd2/Correlation-between-Sensorimotor-area-of-CNS-with-PNS-by-EEG-and-NCV-for-Motor-Imagery-Task.pdf'
+bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 ---
