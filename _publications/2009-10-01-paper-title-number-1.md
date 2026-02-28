@@ -3,7 +3,7 @@ title: "Cloud computing for future generation of computing technology"
 collection: publications
 category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2012-05-27
 venue: '2012 IEEE International Conference on Cyber Technology in Automation, Control, and Intelligent Systems (CYBER)'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
