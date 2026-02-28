@@ -5,8 +5,8 @@ var addressPoints = [
     89.0376862
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Encryption Struggles Persist: When Tech-Savvy Students Face Challenges with PGP in Thunderbird<br />22nd Annual International Conference on Privacy, Security, and Trust (PST2025); Fredericton, Canada",
+    45.9488278,
+    -66.6291827
   ]
 ];
