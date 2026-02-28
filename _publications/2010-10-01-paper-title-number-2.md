@@ -3,10 +3,9 @@ title: "Correlation between brain's adjoin and diverse hemisphere for motor imag
 collection: publications
 category: conferences
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: ''
 date: 2014-07-10
 venue: '2014 International Conference on Informatics, Electronics & Vision (ICIEV)'
 slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
 paperurl: '[https://academicpages.github.io/files/paper2.pdf](https://ieeexplore.ieee.org/abstract/document/6850828)'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
