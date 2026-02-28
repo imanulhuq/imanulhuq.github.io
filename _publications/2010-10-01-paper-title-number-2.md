@@ -7,6 +7,6 @@ excerpt: ''
 date: 2014-07-10
 venue: '2014 International Conference on Informatics, Electronics & Vision (ICIEV)'
 slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: '[https://academicpages.github.io/files/paper2.pdf](https://ieeexplore.ieee.org/abstract/document/6850828)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/6850828'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 ---
